@@ -1,0 +1,79 @@
+[
+    {
+      "Question": "Which of these is not a core data type?",
+      "A": "Lists",
+      "B": "Dictionary",
+      "C": "Class",
+      "Correct Answer": "Class"
+    },
+    {
+      "Question": "What data type is the folowing object? L = [1, 23, 'hello', 1]",
+      "A": "List",
+      "B": "Dictionary",
+      "C": "Array",
+      "Correct Answer": "List"
+    },
+    {
+      "Question": "Which of the following functions converts a string to a float in python?",
+      "A": "int(x, [base])",
+      "B": "long(x, [base])",
+      "C": "float(x)",
+      "Correct Answer": "float(x)"
+    },
+    {
+      "Question": "Given a function that does not return any value, what value is shown when executed?",
+      "A": "int",
+      "B": "void",
+      "C": "null/none",
+      "Correct Answer": "null/none"
+    },
+    {
+      "Question": "Which module in Python supports regular epressions?",
+      "A": "regex",
+      "B": "re",
+      "C": "sys",
+      "Correct Answer": "re"
+    },
+    {
+      "Question": "Which of the following is correct about Python?",
+      "A": "It supports automatic garbage collection",
+      "B": "It can be easily integrated with C, C++, COM, Active, CORBA, and Java",
+      "C": "Both of the above",
+      "Correct Answer": "Both of the above"
+    },
+    {
+      "Question": "Which function can be used on the file to display a dialog for saving a file?",
+      "A": "Filename = savefilename()",
+      "B": "Filename = asksavefilename()",
+      "C": "Filename = asksaveasfilename()",
+      "Correct Answer": "asksaveasfilename()"
+    },
+    {
+      "Question": "Which type of Programming does Python support?",
+      "A": "Object-oriented programming",
+      "B": "Functional Programming",
+      "C": "All of the above",
+      "Correct Answer": "All of the above"
+    },
+    {
+      "Question": "Is Python case sensitive when dealing with identifiers?",
+      "A": "no",
+      "B": "yes",
+      "C": "Only in specific cases",
+      "Correct Answer": "no"
+    },
+    {
+      "Question": "Who developed the Python language?",
+      "A": "Guido van Rossum",
+      "B": "Zim Den",
+      "C": "Niene Stom",
+      "Correct Answer": "Guido van Rossum"
+    },
+    {
+      "Question": "In which year was the Python language developed?",
+      "A": "1989",
+      "B": "1995",
+      "C": "1972",
+      "Correct Answer": "1989"
+    }
+  ]
